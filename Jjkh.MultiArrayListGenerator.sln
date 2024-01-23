@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jjkh.MultiArrayListGenerator", "Jjkh.MultiArrayListGenerator\Jjkh.MultiArrayListGenerator.csproj", "{FC0F5CE8-0F3F-447C-87D4-4DDE4CFD2A84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jjkh.MultiArrayListGenerator.Tests", "Jjkh.MultiArrayListGenerator.Tests\Jjkh.MultiArrayListGenerator.Tests.csproj", "{BCFDBF8D-9459-4893-B596-0723C32FFBC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jjkh.MultiArrayListGenerator.IntegrationTests", "Jjkh.MultiArrayListGenerator.IntegrationTests\Jjkh.MultiArrayListGenerator.IntegrationTests.csproj", "{7096AE97-20A7-4320-8594-F4A98F53FAC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jjkh.MultiArrayListGenerator.Benchmark.DotNet8", "Jjkh.MultiArrayListGenerator.Benchmark.DotNet8\Jjkh.MultiArrayListGenerator.Benchmark.DotNet8.csproj", "{A5DA5B70-D7F4-4DD2-9338-18891E0222DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jjkh.MultiArrayListGenerator.Benchmark.Framework481", "Jjkh.MultiArrayListGenerator.Benchmark.Framework481\Jjkh.MultiArrayListGenerator.Benchmark.Framework481.csproj", "{6D6968E8-D202-491C-BB25-6D40A79CB49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0F5CE8-0F3F-447C-87D4-4DDE4CFD2A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0F5CE8-0F3F-447C-87D4-4DDE4CFD2A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0F5CE8-0F3F-447C-87D4-4DDE4CFD2A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0F5CE8-0F3F-447C-87D4-4DDE4CFD2A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFDBF8D-9459-4893-B596-0723C32FFBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFDBF8D-9459-4893-B596-0723C32FFBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFDBF8D-9459-4893-B596-0723C32FFBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFDBF8D-9459-4893-B596-0723C32FFBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7096AE97-20A7-4320-8594-F4A98F53FAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7096AE97-20A7-4320-8594-F4A98F53FAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7096AE97-20A7-4320-8594-F4A98F53FAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7096AE97-20A7-4320-8594-F4A98F53FAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DA5B70-D7F4-4DD2-9338-18891E0222DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DA5B70-D7F4-4DD2-9338-18891E0222DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DA5B70-D7F4-4DD2-9338-18891E0222DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DA5B70-D7F4-4DD2-9338-18891E0222DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6968E8-D202-491C-BB25-6D40A79CB49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6968E8-D202-491C-BB25-6D40A79CB49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6968E8-D202-491C-BB25-6D40A79CB49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6968E8-D202-491C-BB25-6D40A79CB49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97682A3-FDC4-4EA0-9BF7-CB3DF1631065}
+	EndGlobalSection
+EndGlobal
